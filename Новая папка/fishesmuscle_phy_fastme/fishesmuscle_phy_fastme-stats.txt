@@ -1,0 +1,28 @@
+
+ - FastME 2.1.6.4 - 
+
+
+Paper to be cited:
+
+FastME 2.0 - A comprehensive, accurate and fast distance-based phylogeny inference program.
+	Vincent Lefort, Richard Desper and Olivier Gascuel,
+	Molecular Biology and Evolution 32(10), 2798-800, 2015.
+
+-------------------------------------------------------------------------------
+Settings for this run:
+
+  I                                      Input data type  Protein         
+  E                                   evolutionary model  MtREV           
+  G                    Gamma rate variation across sites  1.000000        
+  R                              Remove sites whith gaps  no              
+  O                    Output calculated distance matrix  yes             
+
+  D                                   Number of datasets  1               
+  M                         Initial tree building method  TaxAdd_BalME    
+  N                                   NNI postprocessing  no              
+  S                                   SPR postprocessing  yes             
+
+  B                      Bootstrap: number of replicates  100             
+
+-------------------------------------------------------------------------------
+Dataset 1

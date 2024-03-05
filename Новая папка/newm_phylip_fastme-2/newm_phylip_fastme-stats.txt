@@ -1,0 +1,335 @@
+
+ - FastME 2.1.6.4 - 
+
+
+Paper to be cited:
+
+FastME 2.0 - A comprehensive, accurate and fast distance-based phylogeny inference program.
+	Vincent Lefort, Richard Desper and Olivier Gascuel,
+	Molecular Biology and Evolution 32(10), 2798-800, 2015.
+
+-------------------------------------------------------------------------------
+Settings for this run:
+
+  I                                      Input data type  Protein         
+  E                                   evolutionary model  MtREV           
+  G                    Gamma rate variation across sites  1.000000        
+  R                              Remove sites whith gaps  no              
+  O                    Output calculated distance matrix  yes             
+
+  D                                   Number of datasets  1               
+  M                         Initial tree building method  TaxAdd_BalME    
+  N                                   NNI postprocessing  no              
+  S                                   SPR postprocessing  yes             
+
+  B                      Bootstrap: number of replicates  100             
+
+-------------------------------------------------------------------------------
+Dataset 1
+	Tree length is 1.61275402
+	Assign BME weights and re-weight tree.
+	Before SPR:     tree length is 1.61275402
+	SPR      1: new tree length is 1.61260638
+	Performed 1 SPR(s).
+
+	Explained variance : 0.99685917
+	Tree length is 1.09760598
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.11397368
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.07088338
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.15225401
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.02822363
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09743877
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10533773
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05106869
+	Assign BME weights and re-weight tree.
+
+	Tree length is 0.99305042
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10249004
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09332321
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10032458
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05330592
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.06401018
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10939208
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08223667
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.07106401
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.15625243
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.02176071
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.02240923
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09037929
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10564106
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.11942190
+	Assign BME weights and re-weight tree.
+
+	Tree length is 0.95842164
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05211738
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.15206883
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.03644196
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.04048888
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.15046792
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.16976402
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10551026
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08389670
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05908945
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10453519
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.04493264
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.13037827
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.12195278
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.04169891
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.16007789
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.04988551
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05019488
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.11126554
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.01791234
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.00038554
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08825058
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.07726858
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08502278
+	Assign BME weights and re-weight tree.
+
+	Tree length is 0.97064468
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.13771951
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10103648
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.04193306
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09820551
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10633121
+	Assign BME weights and re-weight tree.
+
+	Tree length is 0.99028270
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08263397
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.10171691
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.12153543
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.17173758
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05372260
+	Assign BME weights and re-weight tree.
+
+	Tree length is 0.92239867
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09491391
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05867943
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.01527704
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09625491
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.04777288
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08277718
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.03249389
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09258780
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08458568
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08227284
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.07709969
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.02903016
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.14704296
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.16458303
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.03193685
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.04639027
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05844800
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.07734274
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09440130
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05284550
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.03581419
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09400170
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05752219
+	Assign BME weights and re-weight tree.
+
+	Tree length is 0.96410570
+	Assign BME weights and re-weight tree.
+
+	Tree length is 0.99507207
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.06842720
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.15733361
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.06023680
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.06511597
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.01526075
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.05488087
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09744448
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.04484630
+	Assign BME weights and re-weight tree.
+
+	Tree length is 0.99048396
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.12554358
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08550608
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.01388205
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.09324550
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.00368119
+	Assign BME weights and re-weight tree.
+
+	Tree length is 1.08179815
+	Assign BME weights and re-weight tree.
+

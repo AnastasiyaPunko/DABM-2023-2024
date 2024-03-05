@@ -1,0 +1,241 @@
+
+
+#  Analysing dataset 1
+
+ . Computing pairwise distances...
+
+ . Warning: Triangular inequality violation.
+
+ . You may ask for triangular inequality correction using the '-q' option.
+
+ . Computing tree...
+
+ . Tree length is 1.505356.
+
+ . Performing NNI...
+
+ . Non parametric bootstrap analysis...
+
+  [.
+ . Tree length is 0.976986.
+.
+ . Tree length is 0.980841.
+.
+ . Tree length is 1.005034.
+.
+ . Tree length is 1.048988.
+.
+ . Tree length is 1.034795.
+.
+ . Tree length is 1.040276.
+.
+ . Tree length is 1.027850.
+.
+ . Tree length is 0.978004.
+.
+ . Tree length is 1.001392.
+
+ . NNI did not improve tree length.
+.
+ . Tree length is 1.055305.
+
+ . NNI did not improve tree length.
+.
+ . Tree length is 1.011277.
+.
+ . Tree length is 1.003256.
+.
+ . Tree length is 1.015056.
+.
+ . Tree length is 0.942999.
+.
+ . Tree length is 0.997602.
+.
+ . Tree length is 1.021841.
+.
+ . Tree length is 0.970353.
+.
+ . Tree length is 1.054816.
+.
+ . Tree length is 0.961212.
+.
+ . Tree length is 1.106023.
+] 20/100
+  [.
+ . Tree length is 1.041773.
+.
+ . Tree length is 0.995496.
+
+ . NNI did not improve tree length.
+.
+ . Tree length is 1.020764.
+.
+ . Tree length is 1.030298.
+.
+ . Tree length is 0.986712.
+.
+ . Tree length is 0.988603.
+.
+ . Tree length is 1.110386.
+.
+ . Tree length is 0.961006.
+.
+ . Tree length is 0.989444.
+.
+ . Tree length is 1.078907.
+.
+ . Tree length is 1.100644.
+.
+ . Tree length is 1.030889.
+.
+ . Tree length is 1.032402.
+.
+ . Tree length is 1.003611.
+.
+ . Tree length is 0.998093.
+
+ . NNI did not improve tree length.
+.
+ . Tree length is 1.034849.
+.
+ . Tree length is 1.009361.
+.
+ . Tree length is 0.962759.
+.
+ . Tree length is 1.036424.
+.
+ . Tree length is 1.016475.
+] 40/100
+  [.
+ . Tree length is 0.928312.
+.
+ . Tree length is 1.044679.
+.
+ . Tree length is 1.005809.
+.
+ . Tree length is 0.999683.
+.
+ . Tree length is 1.033618.
+.
+ . Tree length is 0.954467.
+.
+ . Tree length is 0.958850.
+.
+ . Tree length is 1.019459.
+.
+ . Tree length is 0.988038.
+.
+ . Tree length is 0.997772.
+.
+ . Tree length is 1.006506.
+.
+ . Tree length is 0.989974.
+
+ . NNI did not improve tree length.
+.
+ . Tree length is 1.019080.
+.
+ . Tree length is 1.017583.
+.
+ . Tree length is 1.012102.
+.
+ . Tree length is 1.033782.
+.
+ . Tree length is 0.979573.
+.
+ . Tree length is 0.957611.
+.
+ . Tree length is 0.967567.
+.
+ . Tree length is 1.125966.
+] 60/100
+  [.
+ . Tree length is 1.001338.
+.
+ . Tree length is 1.084661.
+.
+ . Tree length is 1.020634.
+.
+ . Tree length is 1.063978.
+.
+ . Tree length is 1.072544.
+.
+ . Tree length is 1.002143.
+.
+ . Tree length is 1.028527.
+.
+ . Tree length is 1.033112.
+.
+ . Tree length is 0.985880.
+.
+ . Tree length is 0.983170.
+.
+ . Tree length is 1.052026.
+.
+ . Tree length is 1.002031.
+.
+ . Tree length is 1.015222.
+.
+ . Tree length is 1.005389.
+.
+ . Tree length is 1.113664.
+.
+ . Tree length is 0.981167.
+.
+ . Tree length is 1.009725.
+.
+ . Tree length is 1.012494.
+.
+ . Tree length is 1.110037.
+.
+ . Tree length is 1.001060.
+] 80/100
+  [.
+ . Tree length is 1.016487.
+.
+ . Tree length is 0.926958.
+.
+ . Tree length is 0.956253.
+.
+ . Tree length is 1.106743.
+.
+ . Tree length is 0.998827.
+
+ . NNI did not improve tree length.
+.
+ . Tree length is 1.092478.
+.
+ . Tree length is 1.051159.
+.
+ . Tree length is 1.033760.
+.
+ . Tree length is 1.061675.
+.
+ . Tree length is 1.054782.
+.
+ . Tree length is 0.993996.
+
+ . NNI did not improve tree length.
+.
+ . Tree length is 1.058901.
+.
+ . Tree length is 1.042401.
+.
+ . Tree length is 0.972231.
+.
+ . Tree length is 0.994552.
+.
+ . Tree length is 1.038524.
+.
+ . Tree length is 0.897822.
+
+ . NNI did not improve tree length.
+.
+ . Tree length is 1.096078.
+.
+ . Tree length is 1.011173.
+.
+ . Tree length is 1.011210.
+] 100/100
+
+ . Time used 0h00m11s

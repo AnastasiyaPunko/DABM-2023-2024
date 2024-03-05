@@ -1,0 +1,235 @@
+
+ - FastME 2.1.6.4 - 
+
+
+Paper to be cited:
+
+FastME 2.0 - A comprehensive, accurate and fast distance-based phylogeny inference program.
+	Vincent Lefort, Richard Desper and Olivier Gascuel,
+	Molecular Biology and Evolution 32(10), 2798-800, 2015.
+
+-------------------------------------------------------------------------------
+Settings for this run:
+
+  I                                      Input data type  Protein         
+  E                                   evolutionary model  JTT             
+  G                    Gamma rate variation across sites  1.000000        
+  R                              Remove sites whith gaps  no              
+  O                    Output calculated distance matrix  yes             
+
+  D                                   Number of datasets  1               
+  M                         Initial tree building method  TaxAdd_OLSME    
+  N                                   NNI postprocessing  NNI_OLSME       
+  S                                   SPR postprocessing  no              
+
+  B                      Bootstrap: number of replicates  100             
+
+-------------------------------------------------------------------------------
+Dataset 1
+	Tree length is 1.50535572
+	Before NNI:     tree length is 1.50535572
+	NNI      1: new tree length is 1.50329833
+	NNI      2: new tree length is 1.50319532
+	Performed 2 NNI(s).
+
+	Explained variance : 0.99761428
+	Tree length is 0.97698580
+
+	Tree length is 0.98084113
+
+	Tree length is 1.00503407
+
+	Tree length is 1.04898808
+
+	Tree length is 1.03479542
+
+	Tree length is 1.04027619
+
+	Tree length is 1.02785043
+
+	Tree length is 0.97800419
+
+	Tree length is 1.00139165
+
+	Tree length is 1.05530481
+
+	Tree length is 1.01127701
+
+	Tree length is 1.00325600
+
+	Tree length is 1.01505590
+
+	Tree length is 0.94299864
+
+	Tree length is 0.99760210
+
+	Tree length is 1.02184090
+
+	Tree length is 0.97035348
+
+	Tree length is 1.05481593
+
+	Tree length is 0.96121248
+
+	Tree length is 1.10602271
+
+	Tree length is 1.04177333
+
+	Tree length is 0.99549634
+
+	Tree length is 1.02076365
+
+	Tree length is 1.03029824
+
+	Tree length is 0.98671224
+
+	Tree length is 0.98860328
+
+	Tree length is 1.11038648
+
+	Tree length is 0.96100574
+
+	Tree length is 0.98944382
+
+	Tree length is 1.07890729
+
+	Tree length is 1.10064426
+
+	Tree length is 1.03088896
+
+	Tree length is 1.03240181
+
+	Tree length is 1.00361073
+
+	Tree length is 0.99809263
+
+	Tree length is 1.03484933
+
+	Tree length is 1.00936062
+
+	Tree length is 0.96275901
+
+	Tree length is 1.03642355
+
+	Tree length is 1.01647502
+
+	Tree length is 0.92831189
+
+	Tree length is 1.04467903
+
+	Tree length is 1.00580896
+
+	Tree length is 0.99968346
+
+	Tree length is 1.03361758
+
+	Tree length is 0.95446657
+
+	Tree length is 0.95884973
+
+	Tree length is 1.01945871
+
+	Tree length is 0.98803844
+
+	Tree length is 0.99777185
+
+	Tree length is 1.00650555
+
+	Tree length is 0.98997367
+
+	Tree length is 1.01907995
+
+	Tree length is 1.01758253
+
+	Tree length is 1.01210218
+
+	Tree length is 1.03378193
+
+	Tree length is 0.97957322
+
+	Tree length is 0.95761138
+
+	Tree length is 0.96756732
+
+	Tree length is 1.12596559
+
+	Tree length is 1.00133753
+
+	Tree length is 1.08466089
+
+	Tree length is 1.02063401
+
+	Tree length is 1.06397832
+
+	Tree length is 1.07254423
+
+	Tree length is 1.00214321
+
+	Tree length is 1.02852652
+
+	Tree length is 1.03311236
+
+	Tree length is 0.98588031
+
+	Tree length is 0.98317005
+
+	Tree length is 1.05202562
+
+	Tree length is 1.00203133
+
+	Tree length is 1.01522171
+
+	Tree length is 1.00538893
+
+	Tree length is 1.11366380
+
+	Tree length is 0.98116732
+
+	Tree length is 1.00972454
+
+	Tree length is 1.01249374
+
+	Tree length is 1.11003658
+
+	Tree length is 1.00105961
+
+	Tree length is 1.01648654
+
+	Tree length is 0.92695775
+
+	Tree length is 0.95625303
+
+	Tree length is 1.10674276
+
+	Tree length is 0.99882744
+
+	Tree length is 1.09247822
+
+	Tree length is 1.05115948
+
+	Tree length is 1.03376002
+
+	Tree length is 1.06167484
+
+	Tree length is 1.05478171
+
+	Tree length is 0.99399629
+
+	Tree length is 1.05890139
+
+	Tree length is 1.04240088
+
+	Tree length is 0.97223120
+
+	Tree length is 0.99455198
+
+	Tree length is 1.03852431
+
+	Tree length is 0.89782239
+
+	Tree length is 1.09607843
+
+	Tree length is 1.01117332
+
+	Tree length is 1.01121018
+
