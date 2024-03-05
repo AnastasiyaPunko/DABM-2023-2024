@@ -1,0 +1,13 @@
+{
+	"n_targets": 187626,
+	"n_bootstraps": 0,
+	"n_processed": 50006668,
+	"n_pseudoaligned": 43480642,
+	"n_unique": 14125781,
+	"p_pseudoaligned": 86.9,
+	"p_unique": 28.2,
+	"kallisto_version": "0.50.1",
+	"index_version": 13,
+	"start_time": "Tue Nov 21 09:25:19 2023",
+	"call": "./kallisto/build/src/kallisto quant -i Homo_sapiens.GRCh38.cdna.all.release-94_k31.idx -o resultsA5 A5_SRR6410609_1.fastq.gz A5_SRR6410609_2.fastq.gz"
+}
