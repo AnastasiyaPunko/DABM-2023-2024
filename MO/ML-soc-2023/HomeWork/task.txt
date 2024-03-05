@@ -1,0 +1,31 @@
+For the given dataset (https://disk.yandex.ru/d/s89BGxxwlq3mkw subfolder HomeWork), it is necessary to build at least two models in order to predict the grades.
+
+For this:
+1. Use the data from the train.csv file. Split the data into training (85%) and validation (15%) parts.
+2. Based on the data, build a linear regression model (you may use regularization).
+3. Based on the data, build a RandomForest model with different options for parameters.
+4. Select the best set of parameters based on cross-validation.
+5. Select the best model based on the results on your validation set.
+6. Using the selected model, build a forecast for the data from the test.csv file
+
+As a result of the work, you must provide two files:
+Code file, preferably in .ipynb format
+A file with your grade prediction in .csv format, there can be any fields, but it must be id (student id from the test.csv file) and G1 (your grade prediction).
+
+
+
+
+Для датасета (https://disk.yandex.ru/d/s89BGxxwlq3mkw папка HomeWork) необходимо постоить не менее двух моделей, для предсказания оценки.
+
+Для этого:
+1. Используйте данные из файла train.csv. Разделите данные на обучающуу (85%) и валидационную (15%) части. 
+2. На основе данных построить модель линейной регрессии (можно с регуляризацией).
+3. На основе данных построить модель RandomForest с разными вариантами параметров.
+4. Выберите лучший набор параметров на основе кросс-валидации.
+5. Выберите лучшую модель по результатам на вашей валидационной выборке.
+6. С помошью выбранной модели постройте прогноз для данных из файла test.csv
+
+В качестве результатта работы вы должны предоставить два файла:
+Файл с кодом, желательно в формате .ipynb
+Файл с вашим предсказанием оценок в формате .csv, там могут быть любые поля, но обязательно должны быть id (id студента из файла test.csv) и G1 (ваш прогноз оценки).
+ 
