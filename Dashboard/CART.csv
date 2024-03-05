@@ -1,0 +1,12 @@
+﻿Trial_ID;ARM_N;ARM_ID;ARMTYPE;TDRUG;DOSE;DOSEmin;DOSEmax;DUNIT;NSUB;Prior_therapy;Comments;TypeCART
+CART_001;1;CART_001_1;treatment;Ide-cel;358593750;;;CAR+ T cells;4;1;;BCMA
+CART_004;1;CART_004_1;treatment;Ide-cel;450000000;;;CAR+ T cells;9;1;;BCMA
+CART_011;1;CART_011_1;treatment;Ide-cel;50000000;;;CAR+ T cells;3;1;Dose Escalation;BCMA
+CART_011;2;CART_011_2;treatment;Ide-cel;150000000;;;CAR+ T cells;6;1;Dose Escalation;BCMA
+CART_011;3;CART_011_3;treatment;Ide-cel;450000000;;;CAR+ T cells;9;1;Dose Escalation;BCMA
+CART_011;4;CART_011_4;treatment;Ide-cel;800000000;;;CAR+ T cells;3;1;Dose Escalation;BCMA
+CART_024;1;CART_024_1;treatment;C-CAR088;75000000;;;CAR+ T cells;4;1;Dose Escalation & Expansion;BCMA
+CART_024;2;CART_024_2;treatment;C-CAR088;225000000;;;CAR+ T cells;13;1;;BCMA
+CART_024;3;CART_024_3;treatment;C-CAR088;393750000;4500000;6000000;CAR+ T cells;14;1;;BCMA
+CART_009;1;CART_009_1;treatment;CART-ddBCMA;100000000;;;CAR+ T cells;6;1;Dose Escalation;BCMA
+CART_009;2;CART_009_2;treatment;CART-ddBCMA;300000000;;;CAR+ T cells;6;1;;BCMA
